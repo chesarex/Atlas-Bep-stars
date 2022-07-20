@@ -1,5 +1,5 @@
 # Atlas-Bep-stars
-Espectral Atlas B[e] stars
+Spectral Atlas B[e] stars
 https://www.dropbox.com/sh/fu5wji53jk7u49e/AAAXBBIFC4dgCbQ1KZIhEld7a?dl=0
 
 STARS
